@@ -1,0 +1,14 @@
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstJsExample\MyFirstJsExample\bin\MyFirstJsExample.dll
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstJsExample\MyFirstJsExample\bin\MyFirstJsExample.pdb
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstJsExample\MyFirstJsExample\bin\EntityFramework.dll
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstJsExample\MyFirstJsExample\bin\EntityFramework.xml
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstJsExample\MyFirstJsExample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstJsExample\MyFirstJsExample\obj\Debug\MyFirstJsExample.dll
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstJsExample\MyFirstJsExample\obj\Debug\MyFirstJsExample.pdb
+D:\Work\Ekrem\MyFirstJsExample\MyFirstJsExample\bin\MyFirstJsExample.dll
+D:\Work\Ekrem\MyFirstJsExample\MyFirstJsExample\bin\MyFirstJsExample.pdb
+D:\Work\Ekrem\MyFirstJsExample\MyFirstJsExample\bin\EntityFramework.dll
+D:\Work\Ekrem\MyFirstJsExample\MyFirstJsExample\bin\EntityFramework.xml
+D:\Work\Ekrem\MyFirstJsExample\MyFirstJsExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Ekrem\MyFirstJsExample\MyFirstJsExample\obj\Debug\MyFirstJsExample.dll
+D:\Work\Ekrem\MyFirstJsExample\MyFirstJsExample\obj\Debug\MyFirstJsExample.pdb

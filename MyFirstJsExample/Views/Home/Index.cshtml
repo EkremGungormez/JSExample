@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <h2>Üye Bilgileri</h2>
+    <script src="../../Scripts/jquery-ui-1.8.11.js" type="text/javascript"></script>
+</head>
+<body>  
+    @using (Html.BeginForm())
+    {
+        <div>   
+            <table>
+                <tr>
+                    <td>Ad</td><td>@Html.TextBox("Name")</td>
+                </tr>
+                <tr>
+                    <td>Doğum Tarihi</td><td>@Html.TextBox("DatePicker")</td>
+                </tr>
+                <tr>
+                    <td>Email</td><td>@Html.TextBox("Email")</td>
+                </tr>
+                <tr>
+                    <td>Meslek</td><td>@Html.TextBox("Proficiency")</td>
+                </tr>
+                <tr>
+                    <td>Cinsiyet</td><td>@Html.RadioButton("Gender","Erkek",false)Erkek  @Html.RadioButton("Gender","Kadın",false)Kadın</td>
+                </tr>
+                <tr>
+                    <td></td><td><input type="submit" name="Submit" value="Kaydet" /></td>
+                </tr>
+            </table>
+            
+        </div> 
+    }
+</body>
+</html>
+<script type="text/javascript">
+    $("#datepicker").datepicker();
+</script>
+
